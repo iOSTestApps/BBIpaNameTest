@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "833FB0B81D357B9800392654"
-               BuildableName = "BBIpaNameTest-Target.app"
+               BuildableName = "BBIpaNameTest-Target-product.app"
                BlueprintName = "BBIpaNameTest-Target"
                ReferencedContainer = "container:BBIpaNameTest.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "833FB0B81D357B9800392654"
-            BuildableName = "BBIpaNameTest-Target.app"
+            BuildableName = "BBIpaNameTest-Target-product.app"
             BlueprintName = "BBIpaNameTest-Target"
             ReferencedContainer = "container:BBIpaNameTest.xcodeproj">
          </BuildableReference>
@@ -56,7 +56,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "833FB0B81D357B9800392654"
-            BuildableName = "BBIpaNameTest-Target.app"
+            BuildableName = "BBIpaNameTest-Target-product.app"
             BlueprintName = "BBIpaNameTest-Target"
             ReferencedContainer = "container:BBIpaNameTest.xcodeproj">
          </BuildableReference>
@@ -75,7 +75,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "833FB0B81D357B9800392654"
-            BuildableName = "BBIpaNameTest-Target.app"
+            BuildableName = "BBIpaNameTest-Target-product.app"
             BlueprintName = "BBIpaNameTest-Target"
             ReferencedContainer = "container:BBIpaNameTest.xcodeproj">
          </BuildableReference>
@@ -86,6 +86,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "BBIpa name overriden&quot;"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
