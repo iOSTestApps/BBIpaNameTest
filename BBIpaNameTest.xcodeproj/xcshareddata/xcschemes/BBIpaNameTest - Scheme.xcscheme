@@ -86,7 +86,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
-      customArchiveName = "BBIpa name overriden&quot;"
+      customArchiveName = "BBIpa name overriden"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
